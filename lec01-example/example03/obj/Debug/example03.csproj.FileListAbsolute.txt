@@ -1,0 +1,6 @@
+C:\Users\jijgereji\Desktop\csharp 01\lec01-example\example03\obj\Debug\example03.csprojResolveAssemblyReference.cache
+C:\Users\jijgereji\Desktop\csharp 01\lec01-example\example03\bin\Debug\example03.exe.config
+C:\Users\jijgereji\Desktop\csharp 01\lec01-example\example03\bin\Debug\example03.exe
+C:\Users\jijgereji\Desktop\csharp 01\lec01-example\example03\bin\Debug\example03.pdb
+C:\Users\jijgereji\Desktop\csharp 01\lec01-example\example03\obj\Debug\example03.exe
+C:\Users\jijgereji\Desktop\csharp 01\lec01-example\example03\obj\Debug\example03.pdb
